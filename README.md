@@ -1,7 +1,27 @@
-## Greetings!! 👋
+# Welcome to my profile!
 
-- 🔭 I’m currently working on ...
-- 💬 Ask me about ...
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Loading......)](https://git.io/typing-svg)
+
+About me:
+- Age 35
+- Location: South Africa 🇿🇦
+
+
+
+
+I’m currently working on ...
+
+
+## 💬 Ask me about
+- 3D Printing
+- Cats
+- Food
+- Networking
+- Arduino
+- Raspberry Pi
+
+
 - 📫 How to reach me: ...
 
 
