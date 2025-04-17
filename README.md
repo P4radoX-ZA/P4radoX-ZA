@@ -8,10 +8,11 @@ About me:
 - Location: South Africa 🇿🇦
 
 
-
-
 I’m currently working on ...
-
+- Home Assistant (Smart home automation)
+- Online Menus
+- Online CVs
+- 
 
 ## 💬 Ask me about
 - 3D Printing
