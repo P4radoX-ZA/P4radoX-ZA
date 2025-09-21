@@ -1,5 +1,8 @@
 # Welcome to my profile!
 
+<img width="760" height="419" alt="image" src="https://github.com/user-attachments/assets/558d10cc-d947-4c88-8f7e-22973cedcd70" />
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Loading......)](https://git.io/typing-svg)
 
 -----
