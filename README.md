@@ -37,9 +37,6 @@
  - [Instagram]([url](https://www.instagram.com/themain_za))
 
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=P4radoX-ZA&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 
 <!--
 - 🌱 I’m currently learning ...
