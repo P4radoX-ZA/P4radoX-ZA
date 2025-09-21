@@ -21,16 +21,18 @@
 ### I’m currently working on ...
 - Home Assistant (Smart home automation)
 - Online Menus
-- Online CVs
+- Online CVs/Resumes
+- Wearable Tech/Cosplay designs
+- Smart Gadgets
 
 ###  💬 Ask me about
 - 3D Printing
-- Cats
-- Food
 - Networking
 - Arduino
 - Raspberry Pi
 - DIY Electronics
+- Cats
+- Food
 
 
 ### 📫 How to reach me:
@@ -46,8 +48,6 @@
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
 Typing animation
