@@ -2,12 +2,11 @@
 
 <img width="760" height="419" alt="image" src="https://github.com/user-attachments/assets/558d10cc-d947-4c88-8f7e-22973cedcd70" />
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Loading......)](https://git.io/typing-svg)
 
 -----
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=P4radoX-ZA&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=P4radoX-ZA&theme=dark)](https://github.com/P4radoX-ZA/github-readme-stats)
 
 ![Profile views](https://komarev.com/ghpvc/?username=P4radoX-ZA&style=for-the-badge&color=blue)
 
@@ -36,7 +35,6 @@
 
 
 ### 📫 How to reach me:
-
  - Email - [main.devan@gmail.com](mailto:main.devan@gmail.com)
  - [Facebook](https://www.facebook.com/devan.main)
  - [Instagram](https://www.instagram.com/themain_za)
